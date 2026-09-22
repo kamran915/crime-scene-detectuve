@@ -1,0 +1,6 @@
+{
+  "name": "Crime Scene Detective",
+  "description": "Crime Scene Detective - Solve the clues, examine the evidence, question suspects, and find the truth in immersive mystery cases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
